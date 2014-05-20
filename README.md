@@ -1,4 +1,9 @@
-tom-test
-========
+# README for tom-test repository
 
-This is a GIT test from Tom
+---
+##Objectives:
+
+* Learn about github
+* local vs. remotre repositories
+
+
